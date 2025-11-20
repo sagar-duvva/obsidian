@@ -1,0 +1,1 @@
+**Azure Front Door**, **Azure Traffic Manager**, and **Azure CDN**
