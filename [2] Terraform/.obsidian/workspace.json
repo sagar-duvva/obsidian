@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "6be5a4f34996f1d5",
+    "id": "b41760735c10a300",
     "type": "split",
     "children": [
       {
-        "id": "8c8367ec0f8fdae6",
+        "id": "4b8d20bc5ea19d83",
         "type": "tabs",
         "children": [
           {
-            "id": "3db0663014fae4ba",
+            "id": "f39f6995c9522f70",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "InterviewQs/03 Simplified Question.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "03 Simplified Question"
+              "title": "New tab"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "02c5d9dca0fe9791",
+    "id": "1c32a862b596426c",
     "type": "split",
     "children": [
       {
-        "id": "7e0df10a1eb03967",
+        "id": "0cc07d5e5d9ada75",
         "type": "tabs",
         "children": [
           {
-            "id": "1b280b86323a2575",
+            "id": "c4d16646eac0b6dd",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +44,7 @@
             }
           },
           {
-            "id": "00e179fac4bcbf9e",
+            "id": "3bc517d5ef7b8215",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +61,7 @@
             }
           },
           {
-            "id": "7a2e841c8f5e7292",
+            "id": "64fb817bec3c2fad",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,15 +77,15 @@
     "width": 300
   },
   "right": {
-    "id": "d58a46b2967f25fe",
+    "id": "c76ff65e98692a98",
     "type": "split",
     "children": [
       {
-        "id": "58498f3c4f92d8f4",
+        "id": "85c640f64df60db8",
         "type": "tabs",
         "children": [
           {
-            "id": "c2d5365a77253be6",
+            "id": "0640748f8f7ded7c",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -107,7 +103,7 @@
             }
           },
           {
-            "id": "3d77234a4562532d",
+            "id": "de95d9fc5ff1c5ea",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -120,7 +116,7 @@
             }
           },
           {
-            "id": "4e35b7ae391a0512",
+            "id": "05eef209a5f7840e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -135,21 +131,7 @@
             }
           },
           {
-            "id": "e472d49f6383c756",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
-            "id": "b3ef1e7cce022a09",
+            "id": "824e31eba3db1687",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -180,39 +162,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "3db0663014fae4ba",
+  "active": "f39f6995c9522f70",
   "lastOpenFiles": [
-    "InterviewQs/03 Simplified Question 1.md",
-    "InterviewQs/03 Simplified Question.md",
-    "InterviewQs/02 Simplified Question 1.md",
-    "InterviewQs/02 Simplified Question.md",
-    "InterviewQs/01 Simplified Question 2.md",
-    "InterviewQs/01 Simplified Question.md",
-    "InterviewQs/01 Simplified Question 1.md",
-    "InterviewQs",
-    "1Untitled.md",
-    "001 IMP URLs.md",
-    "1.md",
-    "Untitled.md",
-    "Untitled 1.md",
-    "ResumeBulding/Technical Skills 3.md",
-    "ResumeBulding/Technical Skills 2.md",
-    "ResumeBulding/Technical Skills 1.md",
-    "ResumeBulding/2 Draft.md",
-    "ResumeBulding/1 Draft.md",
-    "ResumeBulding/ONE-PAGE CONDENSED RESUME (ATS-Optimized).md",
-    "ResumeBulding/RAW DATA.md",
-    "ResumeBulding/RAW DATA 1.md",
-    "ResumeBulding/1 Page Resumes.md",
-    "ResumeBulding/MODERN DESIGN PDF LAYOUT CONCEPT.md",
-    "ResumeFinalBlocks/The Walt Disney Company.md",
-    "ResumeBulding/Work Experience Section.md",
-    "Core Competencies vs Technical Skills.md",
-    "ResumeFinalBlocks",
-    "ResumeBulding",
-    "Resume.md",
-    "Learning",
-    "LinkedIn",
-    "NP++"
+    "Terraform Type Constraints/Complex Type constraints.md",
+    "Topic 1 - What is Terraform.md",
+    "Terraform Learning Plan Beginner to Advanced.md",
+    "Welcome.md",
+    "Terraform Type Constraints",
+    "Terraform Type Constraints/Terraform Type Constraints.md",
+    "Terraform Type Constraints/Primitive Type Constraints.md",
+    "simple type constraints.md"
   ]
 }
