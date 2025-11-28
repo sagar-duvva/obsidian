@@ -14,11 +14,31 @@
               "type": "markdown",
               "state": {
                 "file": "01_GIT & GITHUB LABs (BEGINNER TO ADVANCED).md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "01_GIT & GITHUB LABs (BEGINNER TO ADVANCED)"
+            }
+          }
+        ]
+      },
+      {
+        "id": "99e2b7b395e7f4bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4edb2553bfdb13f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ]
@@ -185,13 +205,14 @@
   },
   "active": "0f6ca1b28b21de05",
   "lastOpenFiles": [
-    "Welcome.md",
-    "Untitled 1.md",
-    "Untitled 3.md",
+    "02_Git & GitHub Mastery Lab Guide (Beginner → Advanced).md",
+    "Untitled.md",
     "01_GIT & GITHUB LABs (BEGINNER TO ADVANCED).md",
+    "Untitled 2.md",
+    "Welcome.md",
+    "03_GIT & GITHUB LAB MANUAL (BEGINNER TO ADVANCED).md",
     "git troubleshooting.md",
     "git checkout vs git switch.md",
-    "sagarduvva.github.io.md",
-    "Untitled 2.md"
+    "sagarduvva.github.io.md"
   ]
 }
