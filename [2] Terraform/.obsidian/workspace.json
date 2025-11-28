@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4b8d20bc5ea19d83",
+        "id": "4043fc0d3ff05be1",
         "type": "tabs",
         "children": [
           {
-            "id": "f39f6995c9522f70",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terraform locals and dynamic blocks.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Terraform locals and dynamic blocks"
-            }
-          },
-          {
-            "id": "0d04526dab5a6332",
+            "id": "e8322f329094c680",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,31 +22,45 @@
             }
           },
           {
-            "id": "3d5205afaadbd3ae",
+            "id": "5afa6b93ed03a2f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "terraform function.md",
+                "file": "Assignment 3 Storage Account Naming.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "terraform function"
+              "title": "Assignment 3 Storage Account Naming"
             }
           },
           {
-            "id": "af20b6dfc222ae8e",
+            "id": "cf84c0b87e9a5d05",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terraform loop types.md",
+                "file": "Terraform builtin string functions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Terraform loop types"
+              "title": "Terraform builtin string functions"
+            }
+          },
+          {
+            "id": "92aef907c42e8d45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terraform loops.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Terraform loops"
             }
           }
         ],
@@ -209,15 +209,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "af20b6dfc222ae8e",
+  "active": "92aef907c42e8d45",
   "lastOpenFiles": [
-    "terraform function.md",
     "Terraform loop types.md",
+    "Terraform loops.md",
+    "Terraform builtin string functions.md",
+    "Assignment 3 Storage Account Naming.md",
+    "terraform function.md",
+    "Terraform locals and dynamic blocks.md",
     "regular expression remove special characters.md",
     "Terraform Type Constraints/Terraform Type Constraints.md",
     "Terraform Type Constraints/Primitive Type Constraints.md",
     "Terraform Type Constraints/Complex Type constraints.md",
-    "Terraform locals and dynamic blocks.md",
     "Topic 1 - What is Terraform.md",
     "Terraform Learning Plan Beginner to Advanced.md",
     "Welcome.md",
