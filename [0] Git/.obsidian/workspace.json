@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "01_GIT & GITHUB LABs (BEGINNER TO ADVANCED)"
             }
+          },
+          {
+            "id": "c25676ea520ecab6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "99e2b7b395e7f4bd",
@@ -203,7 +216,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "0f6ca1b28b21de05",
+  "active": "c25676ea520ecab6",
   "lastOpenFiles": [
     "02_Git & GitHub Mastery Lab Guide (Beginner → Advanced).md",
     "Untitled.md",
