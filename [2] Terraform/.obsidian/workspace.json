@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terraform loops.md",
+                "file": "Terraform Type Constraints/Complex Type constraints.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Terraform loops"
+              "title": "Complex Type constraints"
             }
           }
         ],
@@ -211,18 +211,18 @@
   },
   "active": "92aef907c42e8d45",
   "lastOpenFiles": [
+    "Terraform Type Constraints/Primitive Type Constraints.md",
+    "Terraform Type Constraints/Terraform Type Constraints.md",
+    "Terraform Type Constraints/Complex Type constraints.md",
+    "Assignment 3 Storage Account Naming.md",
+    "regular expression remove special characters.md",
+    "Terraform builtin string functions.md",
+    "terraform function.md",
+    "Terraform Learning Plan Beginner to Advanced.md",
+    "Terraform locals and dynamic blocks.md",
     "Terraform loop types.md",
     "Terraform loops.md",
-    "Terraform builtin string functions.md",
-    "Assignment 3 Storage Account Naming.md",
-    "terraform function.md",
-    "Terraform locals and dynamic blocks.md",
-    "regular expression remove special characters.md",
-    "Terraform Type Constraints/Terraform Type Constraints.md",
-    "Terraform Type Constraints/Primitive Type Constraints.md",
-    "Terraform Type Constraints/Complex Type constraints.md",
     "Topic 1 - What is Terraform.md",
-    "Terraform Learning Plan Beginner to Advanced.md",
     "Welcome.md",
     "Terraform Type Constraints",
     "simple type constraints.md"
