@@ -11,13 +11,32 @@
             "id": "373c334c82a05ea9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "001 IMP URLs.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "001 IMP URLs"
+            }
+          },
+          {
+            "id": "799becf755972b55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Intro/Interview Introduction — Script.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Interview Introduction — Script"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,37 +195,38 @@
       "bases:Create new base": false
     }
   },
-  "active": "373c334c82a05ea9",
+  "active": "1b280b86323a2575",
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "Intro/self-introductions.md",
+    "Untitled 3.md",
     "001 IMP URLs.md",
-    "1.md",
-    "InterviewQs/03 Simplified Question.md",
-    "InterviewQs/03 Simplified Question 1.md",
+    "Intro",
+    "1Untitled.md",
+    "Cloud-Security Drive Initiatives.md",
+    "Core Competencies vs Technical Skills.md",
+    "Resume.md",
+    "Terraform for Azure Notes (beginner → advanced).md",
     "InterviewQs/02 Simplified Question 1.md",
-    "InterviewQs/02 Simplified Question.md",
     "InterviewQs/01 Simplified Question 2.md",
     "InterviewQs/01 Simplified Question.md",
-    "InterviewQs/01 Simplified Question 1.md",
-    "InterviewQs",
-    "1Untitled.md",
-    "Untitled.md",
-    "Untitled 1.md",
+    "Learning/Azure WAF vs CAF.md",
+    "LinkedIn/1_ChatGPT.md",
+    "ResumeBulding/Technical Skills 1.md",
     "ResumeBulding/Technical Skills 3.md",
     "ResumeBulding/Technical Skills 2.md",
-    "ResumeBulding/Technical Skills 1.md",
-    "ResumeBulding/2 Draft.md",
-    "ResumeBulding/1 Draft.md",
-    "ResumeBulding/ONE-PAGE CONDENSED RESUME (ATS-Optimized).md",
     "ResumeBulding/RAW DATA.md",
-    "ResumeBulding/RAW DATA 1.md",
-    "ResumeBulding/1 Page Resumes.md",
+    "ResumeBulding/ONE-PAGE CONDENSED RESUME (ATS-Optimized).md",
     "ResumeBulding/MODERN DESIGN PDF LAYOUT CONCEPT.md",
-    "ResumeFinalBlocks/The Walt Disney Company.md",
-    "ResumeBulding/Work Experience Section.md",
-    "Core Competencies vs Technical Skills.md",
+    "ResumeBulding/2 Draft.md",
+    "ResumeBulding/1 Page Resumes.md",
+    "ResumeBulding/1 Draft.md",
+    "InterviewQs/01 Simplified Question 1.md",
+    "InterviewQs/02 Simplified Question.md",
+    "InterviewQs/03 Simplified Question.md",
+    "InterviewQs",
     "ResumeFinalBlocks",
     "ResumeBulding",
-    "Resume.md",
     "Learning",
     "LinkedIn",
     "NP++"
