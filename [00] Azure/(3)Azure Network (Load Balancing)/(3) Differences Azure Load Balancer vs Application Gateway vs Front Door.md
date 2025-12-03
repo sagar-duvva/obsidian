@@ -21,13 +21,15 @@ Absolutely! Let’s make this **clear, simple, and step-by-step**, so you can un
 **Rule of thumb:**
 
 - **Load Balancer:** Network-level traffic distribution
-    
 - **Application Gateway:** Regional web app traffic with security
-    
 - **Front Door:** Global web apps with acceleration, caching, and failover
-    
 
-Back [[(3)Azure Network (Load Balancing)]]
 
-Diagram / Summary [[Quick Visual Summary of Usage Azure Load Balancing]]
+
+---
+
+Back [[Azure Networking]]
+
+---
+
 

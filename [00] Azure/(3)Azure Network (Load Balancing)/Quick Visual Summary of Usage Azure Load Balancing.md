@@ -7,19 +7,15 @@ User → Front Door → App Gateway → Load Balancer → VM
 ```
 
 - **Front Door:** Global, layer 7, routing, acceleration
-    
 - **App Gateway:** Regional, layer 7, SSL/WAF/path routing
-    
 - **Load Balancer:** Regional, layer 4, TCP/UDP distribution
-    
+
 
 ---
 
+Back [[Azure Networking]]
 
-
-
-Back [[(3)Azure Network (Load Balancing)]]
-
+---
 
 
 I don’t have the ability to generate images directly here. You would need to use the ChatGPT web interface with DALL·E enabled to create the diagram.
@@ -62,10 +58,12 @@ In the meantime, I can make a **text-based diagram** that’s very clean and eas
 
 This shows **the flow from global users → Front Door → Application Gateway → Load Balancer → backend VMs** clearly.
 
-If you want, I can also make a **more detailed version including multiple regions, failover, and caching icons**, which looks very professional for documentation.
 
-Do you want me to do that?
+---
 
+Back [[Azure Networking]]
+
+---
 
 
 
@@ -113,24 +111,16 @@ Region 1                 Region 2
 ### **Diagram Explanation:**
 
 1. **Front Door:** Routes global traffic to the nearest region, caches content, protects with WAF.
-    
 2. **Application Gateway (per region):** Handles SSL termination, path/host-based routing, regional WAF protection.
-    
 3. **Load Balancer (per region):** Distributes traffic to backend VMs or scale sets, monitors health.
-    
 4. **Backend VMs:** Actual servers running the application or database.
-    
 
 ✅ This structure ensures:
 
 - **Global availability**
-    
 - **Low latency via caching and nearest-region routing**
-    
 - **Security via WAF at both global and regional layers**
-    
 - **High availability and failover**
-    
 
 ---
 
@@ -175,25 +165,21 @@ Great! Here’s a **color-coded, text-based infographic-style diagram** for docu
 ### **Legend:**
 
 - 🟦 **Blue** → Azure Front Door (Global, Layer 7, caching & WAF)
-    
 - 🟩 **Green** → Azure Application Gateway (Regional, SSL, WAF, path-based routing)
-    
 - 🟨 **Yellow** → Azure Load Balancer (Regional, Layer 4, health probes)
-    
 - 🟫 **Brown** → Backend VMs / App Servers
-    
 
 This layout makes it **easy to understand traffic flow**:
 
 1. Users hit **Front Door** → routed globally.
-    
 2. Traffic enters **Application Gateway** for SSL termination & path-based routing.
-    
 3. **Load Balancer** distributes to backend VMs.
-    
 
 ---
 
-If you want, I can also make a **version showing “failover & multi-region routing” with arrows for priority/backups**, which is perfect for high-availability architecture documentation.
+---
 
-Do you want me to create that version too?
+Back [[Azure Networking]]
+
+---
+

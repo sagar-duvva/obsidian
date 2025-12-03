@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning Channels.md",
-                "mode": "preview",
+                "file": "Online Markdown Editor - The Best Free.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Learning Channels"
+              "title": "Online Markdown Editor - The Best Free"
             }
           }
         ]
@@ -185,10 +185,10 @@
   },
   "active": "cc4b42f4a62f8dce",
   "lastOpenFiles": [
-    "Markdown 1.md",
     "Markdown Syntax Guide.md",
+    "Markdown 1.md",
+    "Learning Channels.md",
     "Online Markdown Editor - The Best Free.md",
-    "Welcome to Markdown Visualizer.md",
-    "Learning Channels.md"
+    "Welcome to Markdown Visualizer.md"
   ]
 }

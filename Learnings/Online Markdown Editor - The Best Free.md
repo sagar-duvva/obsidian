@@ -83,14 +83,14 @@ print(f"The sum is: {result}")
 ```
 
 ### 📊 Tables
-| Feature | Supported |
-| ------------- | ------ |
-| Bold/Italic   | ✅ Yes |
-| Lists         | ✅ Yes |
-| Code Blocks   | ✅ Yes |
-| Tables        | ✅ Yes |
-| Image         | ✅ Yes |
-| Link          | ✅ Yes |
+| Feature     | Supported |
+| ----------- | --------- |
+| Bold/Italic | ✅ Yes     |
+| Lists       | ✅ Yes     |
+| Code Blocks | ✅ Yes     |
+| Tables      | ✅ Yes     |
+| Image       | ✅ Yes     |
+| Link        | ✅ Yes     |
 
 ### 📢 Try It Now!
 
